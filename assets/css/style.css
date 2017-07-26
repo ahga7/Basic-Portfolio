@@ -120,6 +120,8 @@ html, body{
 }
 
 #paragraph{
+	border-width: 2px;
+	border-color: gray;
 	color: #666666;
 	width: 650px;
 	font-family: arial;
@@ -167,6 +169,7 @@ aside{
 
 #Connect h1{
 	border-bottom: solid;
+	margin-bottom: 20px;
 	border-color: #cccccc;
 	border-width: 1px;
 	padding-bottom: 10px;
@@ -210,4 +213,10 @@ aside{
 
  .input{
  	height: 160px;
+ }
+
+ #Connect a {
+ 	padding-top: 50px;
+ }
+ 
  }
